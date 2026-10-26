@@ -1,0 +1,16 @@
+[
+  {"id":"in-west","name":"India-West","country":"India","continent":"Asia","utc_offset":5.5,"lat":19.08,"lng":72.88,"base_intensity":650,"solar_dip":0.30,"wind_variability":0.10,"evening_peak":0.25,"character":"Coal-heavy, midday solar dip"},
+  {"id":"in-south","name":"India-South","country":"India","continent":"Asia","utc_offset":5.5,"lat":13.08,"lng":80.27,"base_intensity":600,"solar_dip":0.30,"wind_variability":0.25,"evening_peak":0.20,"character":"Coal plus wind and solar"},
+  {"id":"sg","name":"Singapore","country":"Singapore","continent":"Asia","utc_offset":8,"lat":1.35,"lng":103.82,"base_intensity":480,"solar_dip":0.05,"wind_variability":0.02,"evening_peak":0.05,"character":"Gas-dominated, flat"},
+  {"id":"jp","name":"Japan","country":"Japan","continent":"Asia","utc_offset":9,"lat":35.68,"lng":139.69,"base_intensity":450,"solar_dip":0.15,"wind_variability":0.05,"evening_peak":0.12,"character":"Gas, coal, nuclear mix"},
+  {"id":"se","name":"Sweden","country":"Sweden","continent":"Europe","utc_offset":1,"lat":59.33,"lng":18.07,"base_intensity":40,"solar_dip":0.03,"wind_variability":0.30,"evening_peak":0.05,"character":"Hydro and nuclear, very clean"},
+  {"id":"fr","name":"France","country":"France","continent":"Europe","utc_offset":1,"lat":48.86,"lng":2.35,"base_intensity":60,"solar_dip":0.05,"wind_variability":0.10,"evening_peak":0.08,"character":"Nuclear, clean and stable"},
+  {"id":"de","name":"Germany","country":"Germany","continent":"Europe","utc_offset":1,"lat":50.11,"lng":8.68,"base_intensity":350,"solar_dip":0.30,"wind_variability":0.45,"evening_peak":0.20,"character":"Highly variable"},
+  {"id":"uk","name":"UK (live data)","country":"United Kingdom","continent":"Europe","utc_offset":0,"lat":51.51,"lng":-0.13,"base_intensity":200,"solar_dip":0.10,"wind_variability":0.45,"evening_peak":0.15,"character":"Wind-driven, real feed"},
+  {"id":"ca-qc","name":"Canada-Quebec","country":"Canada","continent":"Americas","utc_offset":-5,"lat":45.50,"lng":-73.57,"base_intensity":30,"solar_dip":0.01,"wind_variability":0.05,"evening_peak":0.03,"character":"Hydro, very clean"},
+  {"id":"us-or","name":"US-Oregon","country":"United States","continent":"Americas","utc_offset":-8,"lat":45.84,"lng":-119.70,"base_intensity":150,"solar_dip":0.08,"wind_variability":0.30,"evening_peak":0.10,"character":"Hydro and wind"},
+  {"id":"us-va","name":"US-Virginia","country":"United States","continent":"Americas","utc_offset":-5,"lat":38.95,"lng":-77.45,"base_intensity":350,"solar_dip":0.12,"wind_variability":0.08,"evening_peak":0.15,"character":"Gas-heavy mix"},
+  {"id":"br","name":"Brazil","country":"Brazil","continent":"Americas","utc_offset":-3,"lat":-23.55,"lng":-46.63,"base_intensity":90,"solar_dip":0.10,"wind_variability":0.20,"evening_peak":0.10,"character":"Hydro-heavy"},
+  {"id":"za","name":"South Africa","country":"South Africa","continent":"Africa","utc_offset":2,"lat":-26.20,"lng":28.05,"base_intensity":750,"solar_dip":0.10,"wind_variability":0.05,"evening_peak":0.12,"character":"Coal-heavy, among the dirtiest"},
+  {"id":"au-syd","name":"Australia-Sydney","country":"Australia","continent":"Oceania","utc_offset":10,"lat":-33.87,"lng":151.21,"base_intensity":600,"solar_dip":0.40,"wind_variability":0.15,"evening_peak":0.30,"character":"Coal with strong solar dip"}
+]

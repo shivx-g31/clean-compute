@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+pymongo
+dnspython
+python-dotenv
+numpy
+pydantic
+requests
